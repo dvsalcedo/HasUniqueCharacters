@@ -1,0 +1,13 @@
+C:\Code\HasUniqueCharacters\bin\Debug\netcoreapp3.1\HasUniqueCharacters.exe
+C:\Code\HasUniqueCharacters\bin\Debug\netcoreapp3.1\HasUniqueCharacters.deps.json
+C:\Code\HasUniqueCharacters\bin\Debug\netcoreapp3.1\HasUniqueCharacters.runtimeconfig.json
+C:\Code\HasUniqueCharacters\bin\Debug\netcoreapp3.1\HasUniqueCharacters.runtimeconfig.dev.json
+C:\Code\HasUniqueCharacters\bin\Debug\netcoreapp3.1\HasUniqueCharacters.dll
+C:\Code\HasUniqueCharacters\bin\Debug\netcoreapp3.1\HasUniqueCharacters.pdb
+C:\Code\HasUniqueCharacters\obj\Debug\netcoreapp3.1\HasUniqueCharacters.csprojAssemblyReference.cache
+C:\Code\HasUniqueCharacters\obj\Debug\netcoreapp3.1\HasUniqueCharacters.AssemblyInfoInputs.cache
+C:\Code\HasUniqueCharacters\obj\Debug\netcoreapp3.1\HasUniqueCharacters.AssemblyInfo.cs
+C:\Code\HasUniqueCharacters\obj\Debug\netcoreapp3.1\HasUniqueCharacters.csproj.CoreCompileInputs.cache
+C:\Code\HasUniqueCharacters\obj\Debug\netcoreapp3.1\HasUniqueCharacters.dll
+C:\Code\HasUniqueCharacters\obj\Debug\netcoreapp3.1\HasUniqueCharacters.pdb
+C:\Code\HasUniqueCharacters\obj\Debug\netcoreapp3.1\HasUniqueCharacters.genruntimeconfig.cache
